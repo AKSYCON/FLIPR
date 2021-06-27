@@ -1,0 +1,43 @@
+body{
+    background-image: url('https://wallpaperaccess.com/full/2940787.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.wrt{
+    font-size: 10vh;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
+.wrt:hover{
+    transform: scale(0.8);
+    transition: all 2s;
+}
+.log {
+    background-color: rgb(98, 194, 103);
+    width: 90vh;
+    height: 15vh;
+    font-size: 3vh;
+    margin-top:10%;
+    padding:2%;
+    display: flex;
+    justify-content: center;
+  }
+  .container{
+      overflow: auto;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  input,textarea{
+      width: 20vh;
+      height: 3vh;
+      border: black solid 5px;
+  }
+  #b1{
+      width: 10vh;
+      height: 4vh;
+      margin-left: 2vh;
+  }
+  #b2{
+      width: 10vh;
+      height: 3vh;
+  }
